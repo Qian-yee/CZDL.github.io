@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration:none  
+}
+.top,.main,.main2,.main4,.ft{
+    margin: 0 auto;
+    width: 100%;
+}
+.top1,.main1,.main2-1,.main3,.main4-1,.ft1{
+    margin: 0 auto;
+    width: 1318px;
+}
+/* 导航 */
+.top{
+    height: 100px;
+    background: #1f8bb6;
+    overflow: hidden;
+}
+.top1{
+    margin: 0 auto;
+    width: 1318px;
+    height: 100px;
+}
+.logo{
+    float: left;
+    margin-top: 24.5px;
+}
+.nav{
+    float: right;
+}
+.nav li{
+    float: left;
+}
+.nav li a{
+    line-height: 100px;
+    color: #ffffff;
+    padding: 0 35px;
+    display: inline-block;
+}
+.nav li:hover a{
+    color: #fdd700;
+    border-bottom: 1px solid #fdd700;
+}
+/* 以下banner部分 */
+.banner .banner1{
+    margin: 0 auto;
+    width: 1921px;
+    height: 932px;
+}
+.banner1{
+    width: 1921px;
+    height: 932px;
+}
+/* 以下main1部分 */
+.main1{
+    height: 1214px;
+}
+.main1 .main-1{
+    margin: 0 auto;
+    width: 1318px;
+    text-align: center;
+    margin-top: 78px;
+    margin-bottom: 66px;
+}
+.main1 .main-1 dt{
+    font-size: 29px;
+    color: #1b89b7;
+}
+.main1 .main-1 dd{
+    font-size: 20px;
+    color: #e44937;
+}
+.main1 .main-2 dt{
+    font-size: 36.83px;
+    color: #0e2a51;
+    margin-top: 79px;
+} 
+.main1 .main-2 dd{
+    font-size: 24.55px;
+    color: #535556;
+    margin-top: 68px;
+    line-height: 55px;
+}
+.main1 .main-2 a{
+    display: inline-block;
+    float: right;
+    font-size: 24.55px;
+    text-align: center;
+    width: 176px;
+    height: 51px;
+    line-height: 51px;
+    color: #ffffff;
+    background: #3b5982;
+    border-radius: 5px;
+    margin-right: 85px;
+    margin-top: 41px;
+}
+/* 以下main2部分 */
+.main2{
+    height: 753px;
+    background: #173967;
+}
+.main_11{
+    margin: 0 auto;
+    width: 1318px;
+    height: 753px;
+    overflow: hidden;
+}
+.main_11 .main2-2 dl{
+    text-align: center;
+    padding: 24px 0;
+}
+.main_11 .main2-2 dl dt{
+    color: #1b89b7;
+    font-size: 28.72px;
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+.main_11 .main2-2 dl dd{
+    font-size: 25.8px;
+    color: #fb4d33;
+    padding-bottom: 8px;
+}
+.main2-3{
+    width:1318px;
+    height: 540px;
+    overflow: hidden;
+}
+.main2-3 .main-r{
+    width: 268px;
+    height: 499px;
+    padding: 20px;
+    background: #fff;
+    float: left;
+    margin-right: 28px;
+}
+.main2-3 .main-r .main-l{
+    margin: 0 auto;
+    width: 268px;
+    height: 289px;
+    line-height: 28px;
+}
+.main2-3 .main-r .main-l dl dd span{
+    color: #5d5c5c;
+}
+.main2-3 .main-r .main-l h6{
+    font-size: 10px;
+    font-weight: normal;
+    color: #5d5c5c;
+}
+/* 以下main3部分 */
+.main3{
+    height: 1079px;
+}
+.main-rr{
+    margin: 0 auto;
+    width: 1318px;
+    height: 1079px;
+    overflow: hidden;
+}
+.main-rr .main2-2 dl{
+    text-align: center;
+    padding: 24px 0;
+}
+.main-rr .main2-2 dl dt{
+    color: #1b89b7;
+    font-size: 28.72px;
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+.main-rr .main2-2 dl dd{
+    font-size: 25.8px;
+    color: #fb4d33;
+    padding-bottom: 8px;
+}
+.main-ww a img{
+    transition: 0.3s;
+}
+.main-ww a img:hover{
+    width: 438px;
+    height: 442px;
+}
+/* 以下main4部分 */
+.main4{
+    height: 753px;
+    background: #173967;
+    overflow: hidden;
+}
+.main4 .main-1{
+    margin: 0 auto;
+    width: 1318px;
+    text-align: center;
+    margin-top: 78px;
+    margin-bottom: 66px;
+}
+.main4 .main-1 dt{
+    font-size: 29px;
+    color: #0086b7;
+}
+.main4 .main-1 dd{
+    font-size: 20px;
+    color: #e44937;
+}
+.main4 .main-2 img{
+    float: left;
+}
+.main4 .main-2 p{
+    display: block;
+    width: 734px;
+    height: 384px;
+    font-size: 33.33px;
+    margin-left: 45px;
+    float: right;
+    color: #ffffff;
+    line-height: 58px;
+    margin-top: -13px;
+}
+/* 尾部 */
+.ft{
+    background: #152e50; 
+    overflow: hidden;
+}
+.ft1{
+    height: 258px;
+    background: #152e50;
+}
+.ft2{
+    height: 150px;
+}
+.ft li{
+    margin-top: 66px;
+    float: left;
+    color: #ffffff;
+}
+.ft li a{
+    color: #ffffff;
+    font-size: 18px;
+    padding: 0 22px;
+}
+.ft li:first-child a{
+    padding-left: 0;
+}
+.ft p{
+    color: #ffffff;
+    font-size: 14.32px;
+    line-height: 25px;
+}
+.ft img{
+    margin-top: -110px;
+    float: right;
+    margin-left: 20px;
+}
