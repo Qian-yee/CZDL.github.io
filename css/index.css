@@ -110,12 +110,11 @@
         margin: 0 auto;
     width: 1318px;
     text-align: center;
-    margin-top: 78px;
-    margin-bottom: 66px;
+    overflow: hidden;
 }
 .main_11 .main2-2 dl{
     text-align: center;
-    
+    padding: 24px 0;
 }
 .main_11 .main2-2 dl dt{
     color: #1b89b7;
@@ -163,13 +162,11 @@
     margin: 0 auto;
     width: 1318px;
     height: 1270px;
-    margin-top: 78px;
-    margin-bottom: 66px;
     overflow: hidden;
 }
 .main-rr .main2-2 dl{
     text-align: center;
-    
+    padding: 24px 0;
 }
 .main-rr .main2-2 dl dt{
     color: #1b89b7;
