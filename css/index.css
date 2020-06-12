@@ -103,13 +103,13 @@
 }
 /* 以下main2部分 */
 .main2{
-    height: 753px;
+    height: 974px;
     background: #173967;
 }
 .main_11{
     margin: 0 auto;
     width: 1318px;
-    height: 753px;
+    height: 974px;
     margin-top: 78px;
     margin-bottom: 66px;
     overflow: hidden;
@@ -158,18 +158,19 @@
 }
 /* 以下main3部分 */
 .main3{
-    height: 1079px;
+    height: 1270px;
 }
 .main-rr{
     margin: 0 auto;
     width: 1318px;
-    height: 1079px;
+    height: 1270px;
     margin-top: 78px;
+    margin-bottom: 66px;
     overflow: hidden;
 }
 .main-rr .main2-2 dl{
     text-align: center;
-    padding: 24px 0;
+    
 }
 .main-rr .main2-2 dl dt{
     color: #1b89b7;
