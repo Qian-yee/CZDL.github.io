@@ -40,6 +40,9 @@
     display: inline-block;
 }
 .nav li:hover a{
+    font-size: 18px;/*添加*/
+    transform: scale(1,1);/*添加*/
+    transition: 0.5s;/*添加*/
     color: #fdd700;
     border-bottom: 1px solid #fdd700;
 }
@@ -47,7 +50,8 @@
 .banner .banner1{
     margin: 0 auto;
     width: 1921px;
-    height: 932px;
+    eight: 800px;/*改*/
+
 }
 .banner1{
     width: 1921px;
@@ -56,6 +60,7 @@
 /* 以下main1部分 */
 .main1{
     height: 1214px;
+    overflow: hidden;/* 改*/
 }
 .main1 .main-1{
     margin: 0 auto;
