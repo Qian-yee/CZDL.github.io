@@ -107,12 +107,11 @@
     background: #173967;
 }
 .main_11{
-    margin: 0 auto;
+        margin: 0 auto;
     width: 1318px;
-    height: 974px;
+    text-align: center;
     margin-top: 78px;
     margin-bottom: 66px;
-    overflow: hidden;
 }
 .main_11 .main2-2 dl{
     text-align: center;
