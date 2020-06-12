@@ -103,6 +103,7 @@
 }
 /* 以下main2部分 */
 .main2{
+     margin: 0 auto;
     height: 974px;
     overflow: hidden;/* 改*/
     background: #173967;
