@@ -154,29 +154,25 @@
 
 /* 以下main3部分 */
 .main3{
-    height: 1079px;
+    height: 1270px;
+    overflow: hidden;/* 改*/
 }
-.main-rr{
+.main3 .main2-2{
     margin: 0 auto;
     width: 1318px;
-    height: 1079px;
-    overflow: hidden;
-}
-.main-rr .main2-2 dl{
     text-align: center;
-    padding: 24px 0;
+    margin-top: 78px;
+    margin-bottom: 66px;
 }
-.main-rr .main2-2 dl dt{
+.main3 .main2-2 dt{
+    font-size: 29px;
     color: #1b89b7;
-    font-size: 28.72px;
-    font-weight: bold;
-    padding-bottom: 8px;
 }
-.main-rr .main2-2 dl dd{
-    font-size: 25.8px;
-    color: #fb4d33;
-    padding-bottom: 8px;
+.main3 .main2-2 dd{
+    font-size: 20px;
+    color: #e44937;
 }
+
 .main-ww a img{
     transition: 0.3s;
 }
