@@ -123,6 +123,7 @@
     color: #e44937;
 }
 .main2-3{
+    margin: 0 auto;
     width:1318px;
     height: 540px;
     overflow: hidden;
@@ -149,6 +150,7 @@
     font-weight: normal;
     color: #5d5c5c;
 }
+
 /* 以下main3部分 */
 .main3{
     height: 1079px;
