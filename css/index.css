@@ -10,7 +10,7 @@
 }
 .top1,.main1,.main2-1,.main3,.main4-1,.ft1{
     margin: 0 auto;
-    width: 1200px;
+    width: 1318px;
 }
 /* 导航 */
 .top{
@@ -20,7 +20,7 @@
 }
 .top1{
     margin: 0 auto;
-    width: 1200px;
+    width: 1318px;
     height: 100px;
 }
 .logo{
@@ -207,14 +207,14 @@
 }
 .main4 .main-2 p{
     display: block;
-    width: 734px;
-    height: 384px;
-    font-size: 33.33px;
-    margin-left: 45px;
+    width: 600px;
+    font-size: 16px;
     float: right;
     color: #ffffff;
     line-height: 58px;
-    margin-top: -13px;
+    margin-top: 73px;
+    margin-right: 23px;
+
 }
 /* 尾部 */
 .ft{
