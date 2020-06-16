@@ -58,7 +58,7 @@
 }
 /* 以下main1部分 */
 .main1{
-    height: 1214px;
+    height: 1155px;
     overflow: hidden;/* 改*/
 }
 .main1 .main-1{
@@ -77,29 +77,29 @@
     color: #e44937;
 }
 .main1 .main-2 dt{
-    font-size: 36.83px;
+    font-size: 28.83px;
     color: #0e2a51;
-    margin-top: 79px;
+    margin-top: 70px;
 } 
 .main1 .main-2 dd{
-    font-size: 24.55px;
+    font-size: 17px;
     color: #535556;
-    margin-top: 68px;
-    line-height: 55px;
+    margin-top: 27px;
+    line-height: 39px;
 }
 .main1 .main-2 a{
     display: inline-block;
     float: right;
     font-size: 24.55px;
     text-align: center;
-    width: 176px;
-    height: 51px;
-    line-height: 51px;
+    width: 140px;
+    height: 45px;
+    line-height: 45px;
     color: #ffffff;
     background: #3b5982;
     border-radius: 5px;
     margin-right: 85px;
-    margin-top: 41px;
+    margin-top: 60px;
 }
 /* 以下main2部分 */
 .main2{
@@ -145,6 +145,9 @@
 }
 .main2-3 .main-r .main-l dl dd span{
     color: #5d5c5c;
+}
+.main2-3 .main-r .main-l dl dd h2{
+    font-size:20px;
 }
 .main2-3 .main-r .main-l h6{
     font-size: 10px;
