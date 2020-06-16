@@ -103,8 +103,7 @@
 }
 /* 以下main2部分 */
 .main2{
-     margin: 0 auto;
-    height: 974px;
+    height: 1214px;
     overflow: hidden;/* 改*/
     background: #173967;
 }
@@ -123,38 +122,30 @@
     font-size: 20px;
     color: #e44937;
 }
-.main2-3{
+.main2 .main2-3{
     margin: 0 auto;
-    width:1318px;
-    height: 540px;
-    overflow: hidden;
+    width: 1318px;
 }
 .main2-3 .main-r{
+    display: block;
+    float: left;
     width: 268px;
     height: 499px;
     padding: 20px;
-    background: #fff;
-    float: left;
-    margin-right: 28px;
+    background: #ffffff;
+    margin-left: 20px;
 }
-.main2-3 .main-r .main-l{
-    margin: 0 auto;
-    width: 268px;
-    height: 289px;
-    line-height: 28px;
+.main2-3 .main-l dt{
+    font: 25px Arial,"微软雅黑";
 }
-.main2-3 .main-r .main-l dl dd span{
+.main2-3 .main-l dd{
+    font-size: 16px;
     color: #5d5c5c;
+    margin-top: 10px;
 }
-.main2-3 .main-r .main-l dl dd h2{
-    font-size:20px;
+.main2-3 .main-l dd p{
+    line-height: 25px;
 }
-.main2-3 .main-r .main-l h6{
-    font-size: 10px;
-    font-weight: normal;
-    color: #5d5c5c;
-}
-
 /* 以下main3部分 */
 .main3{
     height: 1270px;
