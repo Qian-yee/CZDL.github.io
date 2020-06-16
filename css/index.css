@@ -90,11 +90,11 @@
 .main1 .main-2 a{
     display: inline-block;
     float: right;
-    font-size: 24.55px;
+    font-size: 19px;
     text-align: center;
-    width: 140px;
-    height: 45px;
-    line-height: 45px;
+    width: 125px;
+    height: 38px;
+    line-height: 38px;
     color: #ffffff;
     background: #3b5982;
     border-radius: 5px;
